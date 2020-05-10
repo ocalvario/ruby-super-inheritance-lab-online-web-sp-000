@@ -10,7 +10,7 @@ class ChattyStudent
     
     super
     
-    10.times 
+    10.times {puts 
   
   
 end 
