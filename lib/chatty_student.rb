@@ -10,7 +10,7 @@ class ChattyStudent
     
     super
     
-    times.do 
+    10.times 
   
   
 end 
